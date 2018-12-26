@@ -56,10 +56,9 @@ body{
 }
 .aside{
     background: #ebebeb;
-    /*float: right;*/ /*Did not work*/
-    position: absolute;
+    float: right;
+    position: fixed;
     right: 23%;
-    /*I pulled ^ this way out of left feild*/
     height:350px;
     width: 460px;
 
